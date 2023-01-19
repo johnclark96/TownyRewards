@@ -1,0 +1,6 @@
+name: TownyRewards
+version: '${project.version}'
+main: com.github.johnclark96.townyrewards.TownyRewards
+api-version: 1.19
+authors: [ johnclark96 ]
+description: Towny Addon
